@@ -1,5 +1,5 @@
 
-**CQRS(Command-Query Responsibility Segregation)**
+**CQRS(Command Query Responsibility Segregation)**
 
 https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
 
