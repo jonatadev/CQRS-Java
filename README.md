@@ -1,6 +1,8 @@
 
 **CQRS(Command Query Responsibility Segregation)**
 
+https://microservices.io/
+
 https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
 
 https://www.eventstore.com/cqrs-pattern
